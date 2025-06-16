@@ -1,0 +1,2 @@
+# DiscordGenysis
+Ai based
